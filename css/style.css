@@ -17,3 +17,8 @@ body{
     text-align: center;
     color: #ff4d4d;
 }
+.dice{
+    height: 200px;
+    display: block;
+    margin: 50px auto;
+}
