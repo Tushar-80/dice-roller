@@ -22,3 +22,14 @@ body{
     display: block;
     margin: 50px auto;
 }
+.btn-roll{
+    display: block;
+    margin: 20px auto;
+    font-size: 40px;
+    padding: 5px 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: #ff4d4d;
+    color: #fff;
+    cursor: pointer;
+}
